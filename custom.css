@@ -1,8 +1,8 @@
-div[aria-label="Membros"] div[aria-expanded="false"] > div > div > div > span > svg {
+div[aria-label="Membros"] div > div > div > div > span > svg {
     color: #1a1b26;
 }
 
-div[aria-label="Membros"] div[aria-expanded="false"] > div > div > div > span > span {
+div[aria-label="Membros"] div > div > div > div > span > span {
     color: #1a1b26;
     font-weight: 700;
 }
